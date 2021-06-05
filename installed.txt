@@ -1,0 +1,12 @@
+Key Promoter X
+com.kalessil.phpStorm.phpInspectionsEA
+com.laravel_idea.plugin
+com.mallowigi
+com.xiaobing1024.laravel
+de.espend.idea.laravel
+in.thekalinga.snippet.intellij
+mobi.hsz.idea.gitignore
+monokai-pro
+org.igu.plugins.consolelog
+ru.adelf.idea.dotenv
+zielu.gittoolbox
